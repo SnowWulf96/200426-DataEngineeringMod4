@@ -1,0 +1,4 @@
+FASTAPI
+pydantic
+requests
+uvicorn
